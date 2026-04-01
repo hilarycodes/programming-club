@@ -1,0 +1,76 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries / executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Libraries
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.pdb
+
+# Build directories
+build/
+dist/
+out/
+bin/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE and editor files
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
