@@ -46,7 +46,7 @@ ipch/
 
 # VS Code
 .vscode/
-
+x64/
 # CLion / JetBrains
 .idea/
 *.iml
